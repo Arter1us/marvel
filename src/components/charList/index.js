@@ -1,3 +1,3 @@
-import CharList from "./CharList";
+import CharList from "./charList";
 
 export default CharList;
