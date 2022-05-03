@@ -1,3 +1,3 @@
-import AppBanner from "./AppBanner";
+import AppBanner from "./appBanner";
 
 export default AppBanner;
